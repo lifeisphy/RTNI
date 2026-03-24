@@ -2,7 +2,7 @@
 
 from WFG_source import *
 
-k = 3
+k = 4
 display='yes'
 record = 'yes'
 

@@ -59,6 +59,7 @@ visualizeTN(Eg)
 
 
 ##### 6.3 #####
+# E( U tensor U) X (U* tensor U*) 
 from IHU_source import *
 
 e1 = [["X", 1, "out", 1], ["U", 1, "in", 1]]
